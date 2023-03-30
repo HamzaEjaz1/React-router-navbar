@@ -1,0 +1,31 @@
+.active{
+  color: red;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 40px;
+  background-color: black;
+  color: white;
+  padding: 10px 30px;
+}
+nav ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+nav ul li {
+  padding:0px 20px ;
+  color: white;
+}
+h1{
+  text-align: center;
+  margin-top: 100px;
+}
+.Links{
+  color: whitesmoke;
+}
+.active{
+  color: red;
+}
